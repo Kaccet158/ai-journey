@@ -1,5 +1,3 @@
-import math
-
 def is_armstrong_number(number):
     k = number
     j = 0
@@ -14,12 +12,7 @@ def is_armstrong_number(number):
         k=k//10
     
     if sum == number:
-        return 1
+        return True
     else:
-        return 0
+        return False
     
-x = input('Jaka liczba? ')
-if is_armstrong_number(int(x)) == 1:
-    print('To jest liczba Armstronga!')
-else:
-    print('To nie jest liczba Armstronga!')
