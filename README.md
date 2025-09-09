@@ -1,4 +1,13 @@
-# Python Journey
+# 🐍 Python Journey
+Welcome to my own public journey through python, linux, machine learing and ai. Here I want to share my projects, work and thoughts. 
 
-This is my own journey through python, machine learing and ai. Here I want to share my projects, work and thoughts. 
+# 💥 Goals
+ - To learn foundation of python and basics of ml and ai.
+ - To gain knowledge about linux and unix like systems.
+ - To show my all wins and loses.
+   
+# 📃 Repository Structure
+  
+
+
 
