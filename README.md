@@ -1,3 +1,5 @@
-This is repo for learning python and ai
+# Python Journey
 
-I show here my struggle with learning python and showing what I've done. I want to share my own journey through this topic. 
+### Here I show my struggle with learning python and showing what I've done every week. I want to share my own journey and inspire others.
+
+
